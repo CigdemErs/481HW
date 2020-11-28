@@ -9,3 +9,9 @@ How to Run in terminal
 - Open the terminal from ./481HW/app/src/main/java
 - javac hw/App.java
 - java hw/App
+
+Gradle
+
+-In 481HW folder 
+   - gradle build
+   -gradle test
